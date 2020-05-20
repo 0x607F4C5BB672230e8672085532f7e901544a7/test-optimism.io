@@ -1,3 +1,5 @@
-dd
 # test-optimism.io
-On teste optimism.io avec notre contrat démo
+
+Pour installer les trucs qu'il faut `yarn install`
+
+Pour lancer les tests `yarn test`
